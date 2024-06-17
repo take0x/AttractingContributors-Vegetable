@@ -15,16 +15,8 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (Anime-collection)
-Goal - I want contributors to help me list some favorite Japanese Anime.
+# My Project (Board Game-collection)
+Goal - I want contributors to help me list some favorite Board Games.
 
-# List of Anime.
-1. Naruto
-2. One Piece
-3. Humanity has declined
-4. JoJo's Bizarre Adventure
-5. Dragon Ball Z
-6. World Trigger
-7. BLEACH
-8. Serial Experiments Lain
-9. PoketMon
+# List of Board Game.
+1. Call of Cthulhu RPG
