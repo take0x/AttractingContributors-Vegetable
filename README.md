@@ -23,4 +23,3 @@ Goal - I want contributors to help me list some favorite Board Games.
 2. Scotland yard
 3. Monopoly
 4. Quoridor
-. Mahjong
