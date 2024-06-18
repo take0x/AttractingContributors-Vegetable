@@ -20,3 +20,4 @@ Goal - I want contributors to help me list some favorite code editor.
 My favorite code editor is Visual Studio Code with the Neovim extension.
 
 # List of code editor
+Sublime Text
