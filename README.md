@@ -20,4 +20,5 @@ Goal - I want contributors to help me list some favorite Board Games.
 
 # List of Board Game.
 1. Call of Cthulhu RPG
-2. Monopoly
+2. Scotland yard
+3. Monopoly
