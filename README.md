@@ -21,6 +21,7 @@ Goal - What is your favourite animal?
 
 # List of Hobby
 
-dog
+dog<br/>
 Japanese five-lined skink<br/>
+duck<br/>
 Cat<br/>
