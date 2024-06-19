@@ -24,3 +24,4 @@ Goal - I want contributors to help me list some favorite Board Games.
 3. Monopoly
 4. Quoridor
 5. Mahjong
+6. Chess
