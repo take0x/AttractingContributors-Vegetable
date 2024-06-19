@@ -23,3 +23,4 @@ Goal - What is your favourite animal?
 
 dog
 Japanese five-lined skink<br/>
+Cat<br/>
