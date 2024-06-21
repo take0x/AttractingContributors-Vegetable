@@ -25,3 +25,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Potato
 - Carrot
 - potato
+- pineapple
