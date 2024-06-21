@@ -25,3 +25,7 @@ water
 Coffee
 Oolong Tea  
 Orange juice
+Oolong Tea
+Coca Cola
+魔材
+Milk
