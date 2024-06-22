@@ -28,5 +28,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - pineapple
 - melon
 - Eggplant
+- onion
 - Moyashi
 - Cucumber
