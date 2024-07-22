@@ -25,4 +25,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List 
 1. League of Legends
 2. Titanfall2
-3. Needy Girl Overdose
+3. Rune Factory 3
+4. Needy Girl Overdose
