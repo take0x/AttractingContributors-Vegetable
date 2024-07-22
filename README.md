@@ -25,4 +25,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List 
 1. League of Legends
 2. Titanfall2
-3. Monster Hunter
+3. 3. Rune Factory 3
+4. Needy Girl Overdose
+5. Mario
+6. Monster Hunter
