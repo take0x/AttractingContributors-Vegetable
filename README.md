@@ -21,7 +21,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 
-# What device do you like ?
+# What is your favourite game?
 # List 
-1. iPhone
+1. League of Legends
 
