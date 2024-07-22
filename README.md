@@ -24,4 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # What is your favourite game?
 # List 
 1. League of Legends
-
+2. Titanfall2
